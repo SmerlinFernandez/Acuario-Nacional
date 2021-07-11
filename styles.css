@@ -51,17 +51,16 @@ body{
     
 
 }
-.voluntariado{
-    text-align: left;
+
+img{
+    border-radius: 10%;
 }
-.capacitacion{
+
+#footer{
+    padding-top: 10px;
+    width: 100%;
+    height: 200px;
+    background: rgb(54, 50, 50);
     text-align: center;
-}
-
-.col{
-    columns: 3;
-}
-
-h3{
-    color: slateblue;
+    
 }
