@@ -1,66 +1,74 @@
 /*Fuente y tipo de letra */
-body{
+
+
+/*Fuente y tipo de letra */
+
+body {
     font-family: 'Agency FB', arial;
     font-size: 48px;
     text-shadow: 4px 4px 4px #aaa;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
+
 /*Imagen de fondo de pantalla principal*/
-.header{
+
+.header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://culturafotografica.es/wp-content/uploads/2016/09/mejores-acuarios-singapur.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(https://culturafotografica.es/wp-content/uploads/2016/09/mejores-acuarios-singapur.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
-    
 }
 
+
 /*Texto de Acuario Nacional*/
-.text-box{
+
+.text-box {
     width: 90%;
     color: white;
     position: absolute;
     top: 70%;
     left: 50%;
-    transform: translate(-50%,-50%);
-    text-align:center;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
-.text-box h1{
+.text-box h1 {
     font-size: 55px;
 }
 
-.text-box p{
+.text-box p {
     margin: 10px 0 40px;
     font-size: 14px;
-
 }
 
+
 /*La parte de servicios*/
-.servicios{
+
+
+/*La parte de servicios*/
+
+.servicios {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
-    
-
 }
 
-img{
+img {
     border-radius: 10%;
 }
 
-#footer{
+#footer {
     padding-top: 10px;
     width: 100%;
     height: 200px;
     background: rgb(54, 50, 50);
     text-align: center;
-    
 }
