@@ -1,9 +1,13 @@
 /*Fuente y tipo de letra */
 
+<<<<<<< HEAD
 
 /*Fuente y tipo de letra */
 
 body {
+=======
+body{
+>>>>>>> fbf8353de2eb6e82ad39b95119368d2bdcf29eb2
     font-family: 'Agency FB', arial;
     font-size: 48px;
     text-shadow: 4px 4px 4px #aaa;
