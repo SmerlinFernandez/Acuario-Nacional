@@ -42,7 +42,7 @@ body{
 
 }
 
-/*La parte de servicios*/
+/*Texto de servicios*/
 .servicios{
     width: 80%;
     margin: auto;
@@ -52,11 +52,13 @@ body{
 
 }
 
+/*Bordes de imagenes redondeadas*/
 img{
     border-radius: 10%;
     
 }
 
+/*Pie de pagina*/
 #footer{
     padding-top: 10px;
     width: 100%;
