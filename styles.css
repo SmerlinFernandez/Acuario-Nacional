@@ -26,6 +26,10 @@ body {
 
 /*Texto de Acuario Nacional*/
 
+@keyframes textosaltante {
+    from {top: 0px;}
+    to {top: 438px;}
+}
 
 .text-box {
     width: 90%;
@@ -35,6 +39,8 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    animation: textosaltante;
+    animation-duration: 3s;
 }
 
 .text-box h1 {
@@ -78,7 +84,7 @@ img {
     
 }
 .d-block{
-    padding-top: 50px;
+    padding-top: 40px;
     padding-bottom: 100px;
     
     
