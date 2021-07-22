@@ -113,6 +113,10 @@ img {
 }
 
 .sociales{
-    background: rgb(48, 48, 197);
+    background: rgba(48, 48, 197,0.9);
     
+}
+
+.sociales h1{
+    color: white;
 }
