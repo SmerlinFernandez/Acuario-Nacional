@@ -28,7 +28,7 @@ body {
 
 @keyframes textosaltante {
     from {top: 0px;}
-    to {top: 438px;}
+    to {top: 410px;}
 }
 
 .text-box {
@@ -113,10 +113,71 @@ img {
 }
 
 .sociales{
-    background: rgba(48, 48, 197,0.9);
+    background: rgb(122, 122, 228);
     
 }
 
 .sociales h1{
     color: white;
 }
+
+a.facebook:link, a.facebook:visited{
+    background-color:white;
+    color: #4267B2;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8%;
+}
+
+a.facebook:hover, a.facebook:active{
+    background-color: #4267B2;
+    color: white;
+}
+
+a.twitter:link, a.twitter:visited{
+    background-color: white;
+    color: #1DA1F2;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8%;
+    
+}
+
+a.twitter:hover, a.facebook:active{
+    background-color: #1DA1F2;
+    color: white;
+}
+
+a.youtube:link,a.youtube:visited{
+    background-color: white;
+    color: #FF0000;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block;
+    border-radius: 8%;
+}
+a.youtube:hover, a.youtube:active{
+    background-color: #FF0000;
+    color: white    ;
+}
+
+a.instagram:link,a.instagram:visited{
+    background-color: white;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block;
+    border-radius: 8%;
+}
+a.instagram:hover, a.instagram:active{
+    background-color: black;
+    color: white    ;
+}
+
+
