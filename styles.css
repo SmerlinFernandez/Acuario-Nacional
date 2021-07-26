@@ -68,7 +68,7 @@ img {
 }
 
 .contacto {
-    width: 40%;
+    width: 500px;
     color: black;
     position: absolute;
     top: 45%;
@@ -82,4 +82,17 @@ img {
     color: rgb(255, 247, 247);
     text-align: center;
     background: rgb(16, 1, 51)
+}
+
+.box {
+    padding-left: 400px;
+}
+
+.container {
+    background-color: white;
+}
+
+.txtarea {
+    width: 245px;
+    height: 150px;
 }
