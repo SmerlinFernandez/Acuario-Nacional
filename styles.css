@@ -29,7 +29,7 @@ body {
 
 @keyframes textosaltante {
     from {top: 0px;}
-    to {top: 410px;}
+    to {top: 375px;}
 }
 
 
@@ -91,7 +91,7 @@ img {
     height: 150px;
 }
 
-}
+
 
 .inline-block{
     display: inline-block;
@@ -200,15 +200,11 @@ a.instagram:hover, a.instagram:active{
 }
 
 
-
-
-
-
 .text-box {
     width: 90%;
     color: white;
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
